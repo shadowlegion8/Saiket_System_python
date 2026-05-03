@@ -1,0 +1,4 @@
+Python is easy to learn.
+Python is powerful and simple.
+This internship task is useful.
+Python helps in automation.
